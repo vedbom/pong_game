@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\vedant\Desktop\Xilinx ISE 14.7 Project Files\pong_game\pong_game_top.ncd
+OUTFILE=C:\Users\vedant\Desktop\Xilinx ISE 14.7 Project Files\pong_game\pong_game_top.bit
+FAMILY=Spartan6
+PART=xc6slx9-3csg324
+WORKINGDIR=C:\Users\vedant\Desktop\Xilinx ISE 14.7 Project Files\pong_game
+LICENSE=WebPack
+USER_INFO=211820433_0_0_630
