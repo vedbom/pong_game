@@ -1,7 +1,0 @@
-vhdl work "../FPGA_proto_ver1_ch13_font_display_circuit/font_rom.vhd"
-vhdl work "timer.vhd"
-vhdl work "text_gen_circuit.vhd"
-vhdl work "pix_gen_circuit.vhd"
-vhdl work "mod10_counter.vhd"
-vhdl work "../FPGA_proto_ver1_ch12_VGA_sync_circuit/VGA_sync.vhd"
-vhdl work "pong_game_top.vhd"
